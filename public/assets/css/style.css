@@ -1,0 +1,254 @@
+html {
+	scroll-behavior: smooth;
+}
+
+.color-blue {
+    color: #2f54eb;
+}
+
+.color-red {
+    color: #f5222d;
+}
+
+.color-orange {
+    color: #fa8c16;
+}
+
+.color-green {
+    color: #2ba471;
+}
+
+.color-cyan {
+    color: #029cd4;
+}
+
+.color-purple {
+    color: #8e56dd;
+}
+
+.color-magenta {
+    color: #eb2f96;
+}
+
+.border-color-blue {
+    border-color: #adc6ff !important;
+}
+
+.border-color-red {
+    border-color: #ffa39e !important;
+}
+
+.border-color-orange {
+    border-color: #ffd591 !important;
+}
+
+.border-color-green {
+    border-color: #92dab2 !important;
+}
+
+.border-color-cyan {
+    border-color: #85d3ff !important;
+}
+
+.border-color-purple {
+    border-color: #dcbfff !important;
+}
+
+.border-color-magenta {
+    border-color: #ffadd2 !important;
+}
+
+.input-number::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+}
+
+.input-number::-webkit-outer-spin-button {
+    -webkit-appearance: none;
+}
+
+.flags {
+    background: url(../images/flags.png) no-repeat 0 0;
+    background-size: 24px 3876px;
+    width: 24px;
+    height: 16px;
+    margin-right: 10px;
+    overflow: hidden;
+    display: inline-block;
+}
+
+.fs-link {
+    text-decoration: none;
+}
+
+.fs-link:hover {
+    text-decoration: underline;
+}
+
+.fs-link-group a {
+    text-decoration: none;
+}
+
+.fs-link-group a:hover {
+    text-decoration: underline;
+}
+
+.navbar-collapse .nav-link.active {
+    color: var(--bs-indigo);
+}
+
+.fs-bg {
+	background-color: #fef4f2;
+}
+
+.fs-py {
+	padding-top: 50px;
+	padding-bottom: 40px;
+}
+
+.fs-clients-py {
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+.fs-pb {
+	padding-bottom: 50px;
+}
+
+@media (min-width: 768px) {
+	.fs-py {
+		padding-top: 80px;
+		padding-bottom: 70px;
+	}
+
+	.fs-clients-py {
+		padding-top: 80px;
+		padding-bottom: 80px;
+	}
+
+	.fs-pb {
+		padding-bottom: 80px;
+	}
+}
+
+.fs-title {
+	color: rgb(52 63 82 / 1);
+}
+
+.fs-icon-color {
+	color: rgb(247 139 119 / 1);
+}
+
+.hero {
+	padding: 150px 0 200px 0;
+}
+
+.hero-title {
+	font-size: 3rem;
+	word-spacing: 0.1rem;
+	letter-spacing: -0.01rem;
+}
+
+.home-hero-bg {
+    background: linear-gradient(180deg, #fff8ee, rgba(255, 255, 255, 0) 100%);
+}
+
+.services {
+	margin-top: -100px;
+}
+
+.customer-service {
+	border-radius: 1rem;
+	margin-top: 2rem;
+	margin-bottom: 3rem;
+	background-image: url(../images/cc-bg.png);
+	background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.customer-service img {
+	width: 80%;
+	margin-top: 80px;
+	margin-bottom: -60px;
+}
+
+.client-link:hover img {
+	box-shadow: 0 1rem 3rem rgba(0, 0, 0, 0.175);
+}
+
+.footer-link a:hover {
+	text-decoration: underline;
+}
+
+.site-logo {
+    width: 150px;
+    margin-right: 20px;
+}
+
+/* customer service */
+
+.customer-service-hero {
+	padding-top: 120px;
+	margin-bottom: 80px;
+	background-image: url(../images/cc-bg.png);
+	background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.customer-service-hero img {
+	width: 80%;
+	margin-top: 80px;
+	margin-bottom: -60px;
+}
+
+.cc-about .highlight {
+    background-image: url(../images/underline-yellow.svg);
+    background-size: contain;
+    background-position: center 80%;
+    background-repeat: no-repeat;
+    padding-bottom: 1rem;
+}
+
+.cc-about::before {
+    content: "";
+    display: block;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+    background-image: url(../images/about-bg.svg);
+    background-position: top center;
+    background-repeat: no-repeat;
+}
+
+/* service */
+
+.service-hero {
+    background: linear-gradient(180deg, #fff8ee, rgba(255, 255, 255, 0) 100%);
+}
+
+.service-hero .container {
+    padding: 200px 0 114px 0;
+}
+
+.service-hero .container h1 {
+    font-size: 3.5rem;
+}
+
+/* business */
+
+.business-hero {
+    background: linear-gradient(160deg,#ffb7b7 9%,#727272 100%),radial-gradient(100% 100% at 30% 10%,#ffd1d1 0,#260000 100%),linear-gradient(180deg,#0ff 0,#fff 100%),radial-gradient(100% 100% at 70% 0,red 0,#00ffe0 100%),linear-gradient(280deg,#dbff00 0,#30f 100%);
+    background-blend-mode: screen,overlay,color-burn,color-dodge,normal;
+}
+
+.business-hero .container {
+    padding: 200px 0 100px 0;
+}
+
+.business-hero .container h1 {
+    font-size: 3.5rem;
+}

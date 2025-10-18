@@ -1,0 +1,108 @@
+<?php
+
+return [
+    'community_title' => '客户社区软件',
+    'community_keywords' => '客户社区,社区软件,开源社区程序,开源社区软件,开源论坛程序',
+    'community_description' => '自 2013 年成立以来，我们始终专注于电子商务和客户社区运营，积累了丰富的客户互动经验。凭借我们在客户参与和平台管理方面的深厚专业知识，我们通过无缝的社区运营和战略性搜索引擎优化，促进您的品牌蓬勃发展。',
+
+    'home' => '首页',
+    'solutions' => '解决方案',
+
+    // Navbar
+    'nav_intro' => '介绍',
+    'nav_services' => '服务',
+    'nav_value' => '价值',
+    'nav_advantages' => '优势',
+    'nav_clients' => '案例',
+    'nav_platforms' => '平台',
+    'nav_features' => '特征',
+    'nav_examples' => '示例',
+    'nav_pricing' => '价格',
+    'nav_about' => '关于',
+    'nav_contacts' => '联系',
+
+    // Tag
+    'tag_year' => '年',
+    'tag_unlimited' => '不限时',
+    'tag_mins' => '分钟',
+    'tag_monthly' => '每月',
+    'tag_yearly' => '每年',
+    'tag_per_use' => '每次',
+    'tag_per_person' => '每人',
+    'tag_per_category' => '每类',
+    'tag_per_item' => '每个',
+    'tag_video_intro' => '视频介绍',
+
+    // Solutions
+    'solution_community_text' => '客户社区代理',
+    'solution_community_tagline' => '协助建立和运营客户支持社区，将客户转化为忠实粉丝，提升品牌忠诚度。',
+
+    // More
+    'learn_more' => '了解更多',
+    'visit_site' => '访问网站',
+    'get_started' => '开始使用',
+    'explore_now' => '立即探索',
+    'read_more' => '阅读全文',
+    'select' => '选择',
+    'button_confirm' => '确认',
+
+    // Customer Community
+    'community_hero_text' => '客户社区',
+    'community_hero_tagline' => '我们提供建立、运营和搜索引擎优化客户支持社区的服务，将您的客户转化为忠实拥护者。',
+
+    'community_intro_title' => '什么是客户社区？',
+    'community_intro_content' => '客户社区是一个让客户自由分享关于产品和服务的想法、反馈和问题的论坛。它可以是一个 Facebook 群组、LISTSERV 邮件列表，甚至是一个 Slack 频道，但对于大型企业而言，客户社区通常设置在其网站的子域名上。在线客户社区通常有版主，这些版主可以是客户、员工，或者二者兼有。',
+    'community_intro_content_2' => '客户社区充当了关于产品和公司动态的资讯来源。通常，客户在对产品有疑问时，可以在社区论坛中找到答案，这意味着他们不必联系企业的客户支持。',
+
+    'community_value_title' => '在线客户社区的价值',
+    'community_value_1_title' => '提升客户互动',
+    'community_value_1_content' => '用户可以为他们关注的对话或话题启用电子邮件和推送通知，这意味着他们更有可能回到论坛并持续参与互动。他们也可能开始彼此建立关系，并为了社交互动而再次回到论坛。',
+    'community_value_1_content_2' => '由于客户社区需要登录，你可以跟踪哪些用户最为活跃，并与不活跃的用户取得联系。你还可以查看哪种类型的内容拥有最高的互动率，这将有助于你优化产品信息或营销内容。',
+    'community_value_2_title' => '收集客户洞察',
+    'community_value_2_content' => '客户社区中的讨论能够让你了解用户对你的产品喜欢和不喜欢的地方，以及他们是如何使用产品的。你还可能发现有关技术方面的问题。例如，如果有多位用户在讨论你们的 iOS 移动应用程序中的某个故障，你可以立即进行排查，并感谢用户提出问题！',
+    'community_value_3_title' => '建立信任',
+    'community_value_3_content' => '“信任”是一种几乎无法通过营销和销售材料来建立的情感。但当你拥有一个活跃的客户社区，客户们在其中分享他们对产品的见解时，你就在为品牌建立信任。这是因为客户更信任来自其他客户的真实反馈，而这种信任最终会传递给品牌。',
+    'community_value_3_content_2' => '新加入论坛的用户可以查找到关于你产品或其功能的正面和负面评论。保留这些负面评论将表明你重视透明度，并且不惧怕建设性的批评。',
+    'community_value_4_title' => '培养客户倡导者',
+    'community_value_4_content' => '你的在线社区是培育客户拥护者的理想之地。留意那些对你的产品最热情的人，并考虑以某种方式表彰你的“超级用户”。例如，你可以根据用户提供反馈的数量来分配星级评分，或者在某人发布了特定数量的评论后，在他们的名字下方加上“超级用户”的标识。',
+    'community_value_4_content_2' => '在 B2B 客户社区中，你还可以邀请顶尖用户撰写博客文章或录制视频，分享你的产品如何帮助他们公司解决问题。客户的第一人称故事能够展示你的产品如何帮助他人，从而激发对品牌的信任。',
+    'community_value_5_title' => '提升客户留存率',
+    'community_value_5_content' => '考虑一些 SaaS 公司失去客户的常见原因，例如功能缺失或产品使用率低。在客户社区中，用户可以讨论这些问题并相互解决难题。如果他们对新功能有建议，你还可以主动联系用户获取更多反馈。用户与其他客户以及客户成功团队的实时互动，可以有效提升客户的留存率。',
+    'community_value_6_title' => '实现自助式支持',
+    'community_value_6_content' => '客户可能喜欢你的品牌，但这并不意味着他们在需要帮助时会主动联系你。事实上，69% 的客户更倾向于自己解决问题，如果可能的话。社区论坛可以帮助客户发布问题、寻找信息并从多方获取意见。这不仅减少了客户服务的查询量，还提升了客户的满意度。',
+    'community_value_7_title' => '推动追加销售',
+    'community_value_7_content' => '如果你有多个产品或不同的定价层级，客户社区中的讨论可能会促使客户购买更多产品。例如，你的顶级 SaaS 订阅包含在低级别订阅中无法获得的分析功能。如果顶级订阅用户对从这些分析中获得的洞察赞不绝口，那么较低级别的订阅用户可能会决定升级。',
+    'community_value_8_title' => '制造话题热度',
+    'community_value_8_content' => '在开发新产品或新功能时，可以将其展示给你的社区，邀请用户投票选出他们的最爱。这不仅能表明你重视客户的意见，还能够激发他们对即将发布的产品或功能的兴趣。',
+    'community_value_9_title' => '提升 SEO 和自然流量',
+    'community_value_9_content' => '客户社区内生成的内容可以被搜索引擎索引，从而显著提升品牌的在线可见度。这些讨论和用户生成的内容能够形成长尾效应，随着时间的推移吸引自然流量。这不仅提升了你的网站在搜索引擎中的排名，还吸引了那些正在寻找与你产品相关解决方案的新客户。',
+
+    'community_features_title' => '特征',
+    'community_features_open_source_title' => '开源',
+    'community_features_open_source_content' => '程序源代码完全公开，无任何加密，遵循 Apache-2.0 开源协议，且文档齐全，涵盖数据字典、API、扩展等详尽说明。',
+    'community_features_versatility_title' => '通用',
+    'community_features_versatility_content' => '专为跨平台设计的通用型社区产品，支持多样化的内容形式，能够灵活适应多种运营场景的需求。',
+    'community_features_freedom_title' => '自由',
+    'community_features_freedom_content' => '私有化部署于您指定的服务器与数据库，即便合作终止，您仍无须担忧程序与数据的所有权问题。',
+    'community_features_assurance_title' => '保障',
+    'community_features_assurance_content' => '基于我们自主开发的开源程序构建，即使合作结束，您仍可免费获取程序的持续迭代更新。',
+    'community_features_convenience_title' => '省心',
+    'community_features_convenience_content' => '无需自建或管理技术环境，释放技术资源，让您更加专注于业务运营，同时还提供全面的 SEO 服务。',
+    'community_features_security_title' => '保险',
+    'community_features_security_content' => '配备专职首席信息安全官，并投保了商业一般责任保险和网络安全责任保险，全方位保障客户信息的安全性。',
+
+    'community_examples_title' => '示例',
+    'community_examples_description' => '客户支持社区范例',
+    'community_examples_forum_description' => '创新的社区风格主题模板，采用响应式设计，适用于电脑、平板电脑和移动设备。',
+    'community_examples_social_description' => '基于信息流体验的极简主义主题，采用响应式设计，适用于电脑、平板电脑和移动设备。',
+    'community_examples_bbs_description' => '传统的 BBS 论坛风格主题模板，采用响应式设计，适用于电脑、平板电脑和移动设备。',
+
+    'community_services_title' => '价格',
+    'community_services_description' => '所有价格均以美元计算',
+    'community_services_software' => '社区软件',
+    'community_services_hosting' => 'Managed Hosting',
+    'community_services_operations' => 'Managed Operations',
+    'community_services_software_description' => '源代码完全透明且未加密，遵循 Apache-2.0 开放源码许可证。提供全面的文档，包括数据字典、应用程序接口、扩展等方面的详细说明。',
+    'community_services_hosting_description' => '我们的软件免费开源。如果您缺乏专业技术知识，可以将这些任务委托给我们，这样您就可以专注于管理您的业务运营。我们的服务包括提供服务器、管理服务器、安装和升级软件以及配置操作细节。',
+    'community_services_operations_description' => '在托管服务的基础上，我们更进一步，直接参与您的社区运营。我们共同管理社区、发布和回复内容，并提供内容搜索引擎优化等服务，所有这些都旨在帮助您将客户转化为忠实拥护者。',
+];

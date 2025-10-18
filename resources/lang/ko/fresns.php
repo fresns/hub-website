@@ -1,0 +1,108 @@
+<?php
+
+return [
+    'community_title' => '고객 커뮤니티 소프트웨어',
+    'community_keywords' => '고객 커뮤니티, 커뮤니티 소프트웨어, 오픈 소스 커뮤니티 프로그램, 오픈 소스 커뮤니티 소프트웨어, 오픈 소스 포럼 프로그램',
+    'community_description' => '2013년 설립 이후, 우리는 전자상거래 및 고객 커뮤니티 운영에 집중하여 풍부한 고객 상호작용 경험을 축적해 왔습니다. 고객 참여 및 플랫폼 관리에 대한 깊은 전문 지식을 바탕으로, 원활한 커뮤니티 운영과 전략적 검색 엔진 최적화를 통해 브랜드의 번영을 촉진합니다.',
+
+    'home' => '홈',
+    'solutions' => '솔루션',
+
+    // Navbar
+    'nav_intro' => '소개',
+    'nav_services' => '서비스',
+    'nav_value' => '가치',
+    'nav_advantages' => '장점',
+    'nav_clients' => '사례 연구',
+    'nav_platforms' => '플랫폼',
+    'nav_features' => '특징',
+    'nav_examples' => '예시',
+    'nav_pricing' => '가격',
+    'nav_about' => '회사 정보',
+    'nav_contacts' => '연락처',
+
+    // Tag
+    'tag_year' => '연도',
+    'tag_unlimited' => '무제한',
+    'tag_mins' => '분',
+    'tag_monthly' => '월별',
+    'tag_yearly' => '연별',
+    'tag_per_use' => '사용당',
+    'tag_per_person' => '인당',
+    'tag_per_category' => '카테고리당',
+    'tag_per_item' => '아이템당',
+    'tag_video_intro' => '비디오 소개',
+
+    // Solutions
+    'solution_community_text' => '고객 커뮤니티 대행사',
+    'solution_community_tagline' => '고객 지원 커뮤니티를 구축하고 운영하는 것을 지원하여 고객을 충성도 높은 팬으로 전환하고, 브랜드 충성도를 향상시킵니다.',
+
+    // More
+    'learn_more' => '자세히 알아보기',
+    'visit_site' => '사이트 방문',
+    'get_started' => '시작하기',
+    'explore_now' => '지금 탐색',
+    'read_more' => '더 읽기',
+    'select' => '선택',
+    'button_confirm' => '확인',
+
+    // Customer Community
+    'community_hero_text' => '고객 커뮤니티',
+    'community_hero_tagline' => '우리는 고객 지원 커뮤니티를 구축, 운영 및 SEO 최적화하는 서비스를 제공하여, 고객을 충성도 높은 옹호자로 전환합니다.',
+
+    'community_intro_title' => '고객 커뮤니티란 무엇인가요?',
+    'community_intro_content' => '고객 커뮤니티는 고객들이 제품과 서비스에 대한 아이디어, 피드백 및 질문을 자유롭게 공유할 수 있는 포럼입니다. Facebook 그룹, LISTSERV 메일링 리스트 또는 Slack 채널일 수 있습니다. 그러나 대기업의 경우, 고객 커뮤니티는 일반적으로 웹사이트의 서브도메인에 설정됩니다. 온라인 고객 커뮤니티는 일반적으로 고객, 직원 또는 둘 다가 모더레이터로 존재합니다.',
+    'community_intro_content_2' => '고객 커뮤니티는 제품 및 회사 업데이트에 대한 정보 소스로 작용합니다. 일반적으로 고객이 제품에 대해 질문이 있을 때, 커뮤니티 포럼에서 답변을 찾을 수 있어, 기업의 고객 지원에 연락할 필요가 없습니다.',
+
+    'community_value_title' => '온라인 고객 커뮤니티의 가치',
+    'community_value_1_title' => '고객 상호작용 향상',
+    'community_value_1_content' => '사용자들은 관심 있는 대화나 주제에 대해 이메일 및 푸시 알림을 활성화할 수 있어, 포럼에 다시 방문하여 지속적으로 참여할 가능성이 높아집니다. 또한, 사용자들끼리 관계를 형성하고, 소셜 상호작용을 위해 포럼으로 다시 돌아올 수도 있습니다.',
+    'community_value_1_content_2' => '고객 커뮤니티는 로그인이 필요하므로, 어떤 사용자가 가장 활발한지를 추적하고 비활발한 사용자에게 연락할 수 있습니다. 또한, 어떤 유형의 콘텐츠가 가장 높은 상호작용률을 가지는지를 볼 수 있어, 제품 정보나 마케팅 콘텐츠를 최적화하는 데 도움이 됩니다.',
+    'community_value_2_title' => '고객 인사이트 수집',
+    'community_value_2_content' => '고객 커뮤니티 내의 토론은 사용자들이 제품에 대해 좋아하고 싫어하는 점, 제품을 어떻게 사용하는지를 이해하는 데 도움이 됩니다. 또한, 기술적인 문제를 발견할 수도 있습니다. 예를 들어, 여러 사용자가 당신의 iOS 모바일 앱의 특정 버그에 대해 토론하고 있다면, 즉시 조사하고 문제를 제기해 준 사용자들에게 감사할 수 있습니다!',
+    'community_value_3_title' => '신뢰 구축',
+    'community_value_3_content' => '"신뢰"는 마케팅과 판매 자료를 통해 거의 구축할 수 없는 감정입니다. 하지만, 고객 커뮤니티가 활발하게 운영되면, 고객들이 그 안에서 제품에 대한 통찰력을 공유할 때, 브랜드에 대한 신뢰를 쌓고 있습니다. 이는 고객들이 다른 고객들의 실제 피드백을 더 신뢰하며, 이 신뢰가 결국 브랜드에 전달되기 때문입니다.',
+    'community_value_3_content_2' => '포럼에 새로 가입한 사용자는 당신의 제품이나 기능에 대한 긍정적이고 부정적인 리뷰를 찾을 수 있습니다. 이러한 부정적인 리뷰를 보유하는 것은 당신이 투명성을 중시하고, 건설적인 비판을 두려워하지 않는다는 것을 보여줍니다.',
+    'community_value_4_title' => '고객 옹호자 육성',
+    'community_value_4_content' => '당신의 온라인 커뮤니티는 고객 옹호자를 육성하기 위한 이상적인 장소입니다. 제품에 가장 열정적인 사람들을 주목하고, 어떤 방식으로든 "슈퍼 유저"를 인정하는 것을 고려해 보세요. 예를 들어, 사용자가 제공하는 피드백의 수에 따라 별 등급을 부여하거나, 특정 수의 댓글을 게시한 후 이름 아래에 "슈퍼 유저" 라벨을 추가할 수 있습니다.',
+    'community_value_4_content_2' => 'B2B 고객 커뮤니티에서는, 최상위 사용자를 초대하여 블로그 글을 작성하거나 비디오를 녹화하여, 당신의 제품이 그들의 회사 문제를 어떻게 해결했는지 공유할 수 있습니다. 고객의 1인칭 스토리는 당신의 제품이 다른 사람들을 어떻게 도왔는지 보여주어, 브랜드에 대한 신뢰를 촉진할 수 있습니다.',
+    'community_value_5_title' => '고객 유지율 향상',
+    'community_value_5_content' => 'SaaS 회사가 고객을 잃는 일반적인 몇 가지 이유를 고려해 보세요. 예를 들어, 기능 부족이나 제품 사용률 낮음 등이 있습니다. 고객 커뮤니티에서는 사용자들이 이러한 문제에 대해 토론하고, 함께 문제를 해결할 수 있습니다. 그들이 새로운 기능에 대한 제안을 한다면, 당신은 적극적으로 사용자에게 연락하여 더 많은 피드백을 받을 수 있습니다. 사용자와 다른 고객 및 고객 성공 팀 간의 실시간 상호작용은 고객 유지율을 효과적으로 향상시킬 수 있습니다.',
+    'community_value_6_title' => '셀프 서포트 지원',
+    'community_value_6_content' => '고객은 당신의 브랜드를 좋아할 수 있지만, 도움이 필요할 때 적극적으로 연락을 취하지는 않을 것입니다. 사실, 69%의 고객은 가능하면 스스로 문제를 해결하는 것을 선호합니다. 커뮤니티 포럼은 고객이 질문을 게시하고, 정보를 찾으며, 여러 소스로부터 의견을 얻을 수 있도록 도와줍니다. 이는 고객 서비스 문의를 줄일 뿐만 아니라, 고객 만족도를 높입니다.',
+    'community_value_7_title' => '업셀링 촉진',
+    'community_value_7_content' => '여러 제품이나 다른 가격대가 있는 경우, 고객 커뮤니티 내의 토론이 고객에게 더 많은 제품을 구매하도록 촉구할 수 있습니다. 예를 들어, 당신의 최상위 SaaS 구독에는 하위 구독에서 사용할 수 없는 분석 기능이 포함되어 있습니다. 최상위 구독 사용자들이 이러한 분석을 통해 얻은 통찰력을 절찬한다면, 하위 구독 사용자들은 업그레이드를 결정할 수 있습니다.',
+    'community_value_8_title' => '버즈 생성',
+    'community_value_8_content' => '새로운 제품이나 기능을 개발할 때, 이를 커뮤니티에 선보이고, 사용자에게 선호도를 투표하도록 초대할 수 있습니다. 이는 고객의 피드백을 중요시한다는 것을 보여줄 뿐만 아니라, 다가오는 제품이나 기능에 대한 그들의 관심을 불러일으킬 수 있습니다.',
+    'community_value_9_title' => 'SEO 및 유기적 트래픽 향상',
+    'community_value_9_content' => '고객 커뮤니티 내에서 생성된 콘텐츠는 검색 엔진에 의해 인덱싱될 수 있어, 브랜드의 온라인 가시성을 크게 향상시킵니다. 이러한 토론 및 사용자 생성 콘텐츠는 롱테일 효과를 형성하여 시간이 지남에 따라 유기적 트래픽을 유도합니다. 이는 당신의 웹사이트가 검색 엔진에서의 순위를 향상시킬 뿐만 아니라, 당신의 제품과 관련된 솔루션을 찾는 새로운 고객을 유치합니다.',
+
+    'community_features_title' => '특징',
+    'community_features_open_source_title' => '오픈 소스',
+    'community_features_open_source_content' => '프로그램 소스 코드는 완전히 공개되어 있고 암호화되어 있지 않으며, Apache-2.0 오픈 소스 라이선스를 따릅니다. 데이터 사전, API, 확장 등을 포함한 포괄적인 문서가 제공됩니다.',
+    'community_features_versatility_title' => '다재다능함',
+    'community_features_versatility_content' => '크로스 플랫폼 사용을 위해 설계된 범용 커뮤니티 제품으로, 다양한 콘텐츠 형식을 지원하며, 다양한 운영 시나리오의 요구에 유연하게 적응할 수 있습니다.',
+    'community_features_freedom_title' => '자유',
+    'community_features_freedom_content' => '지정된 서버와 데이터베이스에 개인적으로 배포되므로, 파트너십이 종료되더라도 프로그램과 데이터의 소유권에 대해 걱정할 필요가 없습니다.',
+    'community_features_assurance_title' => '보증',
+    'community_features_assurance_content' => '당신의 파트너십이 종료된 후에도 프로그램의 지속적인 업데이트를 무료로 받을 수 있도록, 우리 고유의 오픈 소스 소프트웨어에 기반하여 구축되었습니다.',
+    'community_features_convenience_title' => '편리함',
+    'community_features_convenience_content' => '기술 환경을 구축하거나 관리할 필요가 없으며, 기술 자원을 해방시켜 비즈니스 운영에 더 집중할 수 있습니다. 또한, 포괄적인 SEO 서비스를 제공합니다.',
+    'community_features_security_title' => '보안',
+    'community_features_security_content' => '전담 최고 정보 보안 책임자를 갖추고 있으며, 상업 일반 책임 보험과 사이버 보안 책임 보험에 가입하여 고객 정보의 보안을 전면적으로 보장합니다.',
+
+    'community_examples_title' => '예시',
+    'community_examples_description' => '고객 지원 커뮤니티 예시',
+    'community_examples_forum_description' => '혁신적인 커뮤니티 스타일의 테마 템플릿으로, 반응형 디자인을 채택하여 컴퓨터, 태블릿, 모바일 기기에 적합합니다.',
+    'community_examples_social_description' => '정보 흐름 경험에 기반한 미니멀리스트 테마로, 반응형 디자인을 채택하여 컴퓨터, 태블릿, 모바일 기기에 적합합니다.',
+    'community_examples_bbs_description' => '전통적인 BBS 포럼 스타일의 테마 템플릿으로, 반응형 디자인을 채택하여 컴퓨터, 태블릿, 모바일 기기에 적합합니다.',
+
+    'community_services_title' => '가격 설정',
+    'community_services_description' => '모든 가격은 미국 달러로 계산됩니다',
+    'community_services_software' => '커뮤니티 소프트웨어',
+    'community_services_hosting' => '매니지드 호스팅',
+    'community_services_operations' => '매니지드 운영',
+    'community_services_software_description' => '소스 코드는 완전히 투명하고 암호화되어 있지 않으며, Apache-2.0 오픈 소스 라이선스를 따릅니다. 데이터 사전, 애플리케이션 프로그래밍 인터페이스, 확장 등을 포함한 포괄적인 문서가 제공됩니다.',
+    'community_services_hosting_description' => '우리의 소프트웨어는 무료 오픈 소스입니다. 전문적인 기술 지식이 부족하다면, 이러한 작업을 저희에게 아웃소싱할 수 있어 비즈니스 운영 관리에 집중할 수 있습니다. 우리의 서비스에는 서버 제공, 서버 관리, 소프트웨어 설치 및 업그레이드, 운영 세부 사항 구성 등이 포함됩니다.',
+    'community_services_operations_description' => '호스팅 서비스 외에도, 우리는 당신의 커뮤니티 운영에 직접 참여함으로써 한 걸음 더 나아갑니다. 우리는 공동으로 커뮤니티를 관리하고, 콘텐츠를 게시 및 응답하며, 콘텐츠 검색 엔진 최적화 서비스를 제공합니다. 이는 모두 고객을 충성도 높은 옹호자로 전환하는 것을 목표로 합니다.',
+];

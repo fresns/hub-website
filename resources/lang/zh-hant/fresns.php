@@ -1,0 +1,108 @@
+<?php
+
+return [
+    'community_title' => '客戶社群軟體',
+    'community_keywords' => '客戶社群,社群軟體,開源社群程式,開源社群軟體,開源論壇程式',
+    'community_description' => '自 2013 年成立以來，我們始終專注於電子商務和客戶社群運營，累積了豐富的客戶互動經驗。憑藉我們在客戶參與和平台管理方面的深厚專業知識，我們透過無縫的社群運營和策略性搜尋引擎優化，促進您的品牌蓬勃發展。',
+
+    'home' => '首頁',
+    'solutions' => '解決方案',
+
+    // Navbar
+    'nav_intro' => '介紹',
+    'nav_services' => '服務',
+    'nav_value' => '價值',
+    'nav_advantages' => '優勢',
+    'nav_clients' => '案例',
+    'nav_platforms' => '平台',
+    'nav_features' => '特點',
+    'nav_examples' => '範例',
+    'nav_pricing' => '價格',
+    'nav_about' => '關於',
+    'nav_contacts' => '聯絡',
+
+    // Tag
+    'tag_year' => '年',
+    'tag_unlimited' => '不限時',
+    'tag_mins' => '分鐘',
+    'tag_monthly' => '每月',
+    'tag_yearly' => '每年',
+    'tag_per_use' => '每次',
+    'tag_per_person' => '每人',
+    'tag_per_category' => '每類',
+    'tag_per_item' => '每個',
+    'tag_video_intro' => '影片介紹',
+
+    // Solutions
+    'solution_community_text' => '客戶社群代理',
+    'solution_community_tagline' => '協助建立和運營客戶支持社群，將客戶轉化為忠實粉絲，提升品牌忠誠度。',
+
+    // More
+    'learn_more' => '了解更多',
+    'visit_site' => '訪問網站',
+    'get_started' => '開始使用',
+    'explore_now' => '立即探索',
+    'read_more' => '閱讀全文',
+    'select' => '選擇',
+    'button_confirm' => '確認',
+
+    // Customer Community
+    'community_hero_text' => '客戶社群',
+    'community_hero_tagline' => '我們提供建立、運營和搜尋引擎優化客戶支持社群的服務，將您的客戶轉化為忠實擁護者。',
+
+    'community_intro_title' => '什麼是客戶社群？',
+    'community_intro_content' => '客戶社群是一個讓客戶自由分享關於產品和服務的想法、回饋和問題的論壇。它可以是一個 Facebook 群組、LISTSERV 郵件列表，甚至是一個 Slack 頻道，但對於大型企業而言，客戶社群通常設置在其網站的子域名上。線上客戶社群通常有版主，這些版主可以是客戶、員工，或者二者兼有。',
+    'community_intro_content_2' => '客戶社群充當了關於產品和公司動態的資訊來源。通常，客戶在對產品有疑問時，可以在社群論壇中找到答案，這意味著他們不必聯繫企業的客戶支持。',
+
+    'community_value_title' => '線上客戶社群的價值',
+    'community_value_1_title' => '提升客戶互動',
+    'community_value_1_content' => '用戶可以為他們關注的對話或話題啟用電子郵件和推送通知，這意味著他們更有可能回到論壇並持續參與互動。他們也可能開始彼此建立關係，並為了社交互動而再次回到論壇。',
+    'community_value_1_content_2' => '由於客戶社群需要登入，你可以追蹤哪些用戶最為活躍，並與不活躍的用戶取得聯繫。你還可以查看哪種類型的內容擁有最高的互動率，這將有助於你優化產品資訊或行銷內容。',
+    'community_value_2_title' => '收集客戶洞察',
+    'community_value_2_content' => '客戶社群中的討論能夠讓你了解用戶對你的產品喜歡和不喜歡的地方，以及他們是如何使用產品的。你還可能發現有關技術方面的問題。例如，如果有多位用戶在討論你們的 iOS 移動應用程式中的某個故障，你可以立即進行排查，並感謝用戶提出問題！',
+    'community_value_3_title' => '建立信任',
+    'community_value_3_content' => '「信任」是一種幾乎無法透過行銷和銷售材料來建立的情感。但當你擁有一個活躍的客戶社群，客戶們在其中分享他們對產品的見解時，你就在為品牌建立信任。這是因為客戶更信任來自其他客戶的真實回饋，而這種信任最終會傳遞給品牌。',
+    'community_value_3_content_2' => '新加入論壇的用戶可以查找到關於你產品或其功能的正面和負面評論。保留這些負面評論將表明你重視透明度，並且不畏懼建設性的批評。',
+    'community_value_4_title' => '培養客戶倡導者',
+    'community_value_4_content' => '你的線上社群是培育客戶擁護者的理想之地。留意那些對你的產品最熱情的人，並考慮以某種方式表彰你的「超級用戶」。例如，你可以根據用戶提供回饋的數量來分配星級評分，或者在某人發布了特定數量的評論後，在他們的名字下方加上「超級用戶」的標識。',
+    'community_value_4_content_2' => '在 B2B 客戶社群中，你還可以邀請頂尖用戶撰寫部落格文章或錄製影片，分享你的產品如何幫助他們公司解決問題。客戶的第一人稱故事能夠展示你的產品如何幫助他人，從而激發對品牌的信任。',
+    'community_value_5_title' => '提升客戶留存率',
+    'community_value_5_content' => '考慮一些 SaaS 公司失去客戶的常見原因，例如功能缺失或產品使用率低。在客戶社群中，用戶可以討論這些問題並相互解決難題。如果他們對新功能有建議，你還可以主動聯繫用戶獲取更多回饋。用戶與其他客戶以及客戶成功團隊的即時互動，可以有效提升客戶的留存率。',
+    'community_value_6_title' => '實現自助式支持',
+    'community_value_6_content' => '客戶可能喜歡你的品牌，但這並不意味著他們在需要幫助時會主動聯繫你。事實上，69% 的客戶更傾向於自己解決問題，如果可能的話。社群論壇可以幫助客戶發布問題、尋找資訊並從多方獲取意見。這不僅減少了客戶服務的查詢量，還提升了客戶的滿意度。',
+    'community_value_7_title' => '推動追加銷售',
+    'community_value_7_content' => '如果你有多個產品或不同的定價層級，客戶社群中的討論可能會促使客戶購買更多產品。例如，你的頂級 SaaS 訂閱包含在低級別訂閱中無法獲得的分析功能。如果頂級訂閱用戶對從這些分析中獲得的洞察讚不絕口，那麼較低級別的訂閱用戶可能會決定升級。',
+    'community_value_8_title' => '製造話題熱度',
+    'community_value_8_content' => '在開發新產品或新功能時，可以將其展示給你的社群，邀請用戶投票選出他們的最愛。這不僅能表明你重視客戶的意見，還能夠激發他們對即將發布的產品或功能的興趣。',
+    'community_value_9_title' => '提升 SEO 和自然流量',
+    'community_value_9_content' => '客戶社群內生成的內容可以被搜尋引擎索引，從而顯著提升品牌的線上可見度。這些討論和用戶生成的內容能夠形成長尾效應，隨著時間的推移吸引自然流量。這不僅提升了你的网站在搜尋引擎中的排名，還吸引了那些正在尋找與你產品相關解決方案的新客戶。',
+
+    'community_features_title' => '特點',
+    'community_features_open_source_title' => '開源',
+    'community_features_open_source_content' => '程式源碼完全公開，無任何加密，遵循 Apache-2.0 開源協議，且文件齊全，涵蓋資料字典、API、擴展等詳盡說明。',
+    'community_features_versatility_title' => '通用',
+    'community_features_versatility_content' => '專為跨平台設計的通用型社群產品，支援多樣化的內容形式，能夠靈活適應多種營運場景的需求。',
+    'community_features_freedom_title' => '自由',
+    'community_features_freedom_content' => '私有化部署於您指定的伺服器與資料庫，即便合作終止，您仍無須擔憂程式與資料的所有權問題。',
+    'community_features_assurance_title' => '保障',
+    'community_features_assurance_content' => '基於我們自主開發的開源程式構建，即使合作結束，您仍可免費獲取程式的持續迭代更新。',
+    'community_features_convenience_title' => '省心',
+    'community_features_convenience_content' => '無需自建或管理技術環境，釋放技術資源，讓您更加專注於業務運營，同時還提供全面的 SEO 服務。',
+    'community_features_security_title' => '保險',
+    'community_features_security_content' => '配備專職首席資訊安全官，並投保了商業一般責任保險和網路安全責任保險，全方位保障客戶資訊的安全性。',
+
+    'community_examples_title' => '範例',
+    'community_examples_description' => '客戶支持社群範例',
+    'community_examples_forum_description' => '創新的社群風格主題模板，採用響應式設計，適用於電腦、平板電腦和行動裝置。',
+    'community_examples_social_description' => '基於資訊流體驗的極簡主義主題，採用響應式設計，適用於電腦、平板電腦和行動裝置。',
+    'community_examples_bbs_description' => '傳統的 BBS 論壇風格主題模板，採用響應式設計，適用於電腦、平板電腦和行動裝置。',
+
+    'community_services_title' => '價格',
+    'community_services_description' => '所有價格均以美元計算',
+    'community_services_software' => '社群軟體',
+    'community_services_hosting' => 'Managed Hosting',
+    'community_services_operations' => 'Managed Operations',
+    'community_services_software_description' => '源碼完全透明且未加密，遵循 Apache-2.0 開放原始碼許可證。提供全面的文件，包括資料字典、應用程式介面、擴展等方面的詳細說明。',
+    'community_services_hosting_description' => '我們的軟體免費開源。如果您缺乏專業技術知識，可以將這些任務委託給我們，這樣您就可以專注於管理您的業務運營。我們的服務包括提供伺服器、管理伺服器、安裝和升級軟體以及配置操作細節。',
+    'community_services_operations_description' => '在托管服務的基礎上，我們更進一步，直接參與您的社群運營。我們共同管理社群、發布和回覆內容，並提供內容搜尋引擎優化等服務，所有這些都旨在幫助您將客戶轉化為忠實擁護者。',
+];

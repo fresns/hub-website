@@ -1,0 +1,108 @@
+<?php
+
+return [
+    'community_title' => 'Customer Community Software',
+    'community_keywords' => 'Customer Community, Community Software, Open-source Community Programs, Open-source Community Software, Open-source Forum Programs',
+    'community_description' => 'Since its establishment in 2013, we have been focusing on e-commerce and customer community operations, accumulating rich experience in customer interaction. With our deep expertise in customer engagement and platform management, we foster your brand’s prosperity through seamless community operations and strategic search engine optimization.',
+
+    'home' => 'Home',
+    'solutions' => 'Solutions',
+
+    // Navbar
+    'nav_intro' => 'Introduction',
+    'nav_services' => 'Services',
+    'nav_value' => 'Value',
+    'nav_advantages' => 'Advantages',
+    'nav_clients' => 'Clients',
+    'nav_platforms' => 'Platforms',
+    'nav_features' => 'Features',
+    'nav_examples' => 'Examples',
+    'nav_pricing' => 'Pricing',
+    'nav_about' => 'About',
+    'nav_contacts' => 'Contact',
+
+    // Tag
+    'tag_year' => 'Year',
+    'tag_unlimited' => 'Unlimited',
+    'tag_mins' => 'Minutes',
+    'tag_monthly' => 'Monthly',
+    'tag_yearly' => 'Yearly',
+    'tag_per_use' => 'Per Use',
+    'tag_per_person' => 'Per Person',
+    'tag_per_category' => 'Per Category',
+    'tag_per_item' => 'Per Item',
+    'tag_video_intro' => 'Video Introduction',
+
+    // Solutions
+    'solution_community_text' => 'Customer Community Agency',
+    'solution_community_tagline' => 'Assist in building and operating customer support communities, converting customers into loyal fans, and enhancing brand loyalty.',
+
+    // More
+    'learn_more' => 'Learn More',
+    'visit_site' => 'Visit Site',
+    'get_started' => 'Get Started',
+    'explore_now' => 'Explore Now',
+    'read_more' => 'Read More',
+    'select' => 'Select',
+    'button_confirm' => 'Confirm',
+
+    // Customer Community
+    'community_hero_text' => 'Customer Community',
+    'community_hero_tagline' => 'We provide services to build, operate, and optimize SEO for customer support communities, turning your customers into loyal advocates.',
+
+    'community_intro_title' => 'What is a Customer Community?',
+    'community_intro_content' => 'A customer community is a forum where customers can freely share their ideas, feedback, and questions about products and services. It can be a Facebook group, a LISTSERV mailing list, or even a Slack channel. However, for large enterprises, customer communities are usually set up on a subdomain of their website. Online customer communities typically have moderators who can be customers, employees, or both.',
+    'community_intro_content_2' => 'Customer communities serve as a source of information about product and company updates. Typically, when customers have questions about a product, they can find answers in the community forum, meaning they do not need to contact the company’s customer support.',
+
+    'community_value_title' => 'Value of Online Customer Communities',
+    'community_value_1_title' => 'Enhancing Customer Interaction',
+    'community_value_1_content' => 'Users can enable email and push notifications for conversations or topics they follow, meaning they are more likely to return to the forum and continue engaging. They might also start building relationships with each other and return to the forum for social interactions.',
+    'community_value_1_content_2' => 'Since customer communities require login, you can track which users are the most active and reach out to inactive users. You can also see what type of content has the highest engagement rate, which helps you optimize product information or marketing content.',
+    'community_value_2_title' => 'Gathering Customer Insights',
+    'community_value_2_content' => 'Discussions in customer communities allow you to understand what users like and dislike about your products and how they use them. You might also discover technical issues. For example, if multiple users discuss a bug in your iOS mobile app, you can immediately investigate and thank users for bringing up the issue!',
+    'community_value_3_title' => 'Building Trust',
+    'community_value_3_content' => '"Trust" is an emotion that is almost impossible to establish through marketing and sales materials. But when you have an active customer community where customers share their insights about your products, you are building trust for your brand. This is because customers trust real feedback from other customers more, and this trust ultimately transfers to the brand.',
+    'community_value_3_content_2' => 'New users joining the forum can find both positive and negative reviews about your products or features. Keeping these negative reviews shows that you value transparency and are not afraid of constructive criticism.',
+    'community_value_4_title' => 'Cultivating Customer Advocates',
+    'community_value_4_content' => 'Your online community is the ideal place to nurture customer advocates. Keep an eye on those who are most passionate about your products and consider recognizing your “super users” in some way. For example, you can assign star ratings based on the number of feedbacks provided by users or add a “super user” label under their names after they post a certain number of comments.',
+    'community_value_4_content_2' => 'In B2B customer communities, you can also invite top users to write blog posts or record videos sharing how your products help their companies solve problems. Customer first-person stories can showcase how your products help others, thereby fostering trust in the brand.',
+    'community_value_5_title' => 'Increasing Customer Retention',
+    'community_value_5_content' => 'Consider some common reasons SaaS companies lose customers, such as missing features or low product usage. In customer communities, users can discuss these issues and solve problems together. If they have suggestions for new features, you can proactively contact users for more feedback. Real-time interactions between users, other customers, and the customer success team can effectively increase customer retention.',
+    'community_value_6_title' => 'Enabling Self-service Support',
+    'community_value_6_content' => 'Customers may like your brand, but that doesn’t mean they will proactively contact you when they need help. In fact, 69% of customers prefer to solve problems on their own if possible. Community forums can help customers post questions, find information, and gather opinions from multiple sources. This not only reduces customer service queries but also increases customer satisfaction.',
+    'community_value_7_title' => 'Driving Upselling',
+    'community_value_7_content' => 'If you have multiple products or different pricing tiers, discussions in the customer community can prompt customers to purchase more products. For example, your top-tier SaaS subscription includes analytical features not available in lower-tier subscriptions. If top-tier subscribers rave about the insights gained from these analytics, lower-tier subscribers might decide to upgrade.',
+    'community_value_8_title' => 'Creating Buzz',
+    'community_value_8_content' => 'When developing new products or features, you can showcase them to your community and invite users to vote for their favorites. This not only shows that you value customer feedback but also ignites their interest in the upcoming products or features.',
+    'community_value_9_title' => 'Improving SEO and Organic Traffic',
+    'community_value_9_content' => 'Content generated within customer communities can be indexed by search engines, significantly enhancing the brand’s online visibility. These discussions and user-generated content create a long-tail effect, attracting organic traffic over time. This not only improves your website’s ranking on search engines but also attracts new customers who are searching for solutions related to your products.',
+
+    'community_features_title' => 'Features',
+    'community_features_open_source_title' => 'Open-source',
+    'community_features_open_source_content' => 'The source code is fully open and unencrypted, following the Apache-2.0 open-source license, with comprehensive documentation covering data dictionaries, APIs, extensions, and more.',
+    'community_features_versatility_title' => 'Versatile',
+    'community_features_versatility_content' => 'A universal community product designed for cross-platform use, supporting diverse content formats and flexibly adapting to various operational scenarios.',
+    'community_features_freedom_title' => 'Freedom',
+    'community_features_freedom_content' => 'Privately deployed on your designated server and database, so even if the partnership ends, you do not have to worry about ownership of the program and data.',
+    'community_features_assurance_title' => 'Assurance',
+    'community_features_assurance_content' => 'Built on our proprietary open-source software, so even after the partnership ends, you can continue to receive free updates to the software.',
+    'community_features_convenience_title' => 'Convenient',
+    'community_features_convenience_content' => 'No need to build or manage technical environments, freeing up technical resources so you can focus more on business operations. Also provides comprehensive SEO services.',
+    'community_features_security_title' => 'Security',
+    'community_features_security_content' => 'Equipped with a dedicated Chief Information Security Officer and insured with Commercial General Liability Insurance and Cybersecurity Liability Insurance, ensuring the security of customer information.',
+
+    'community_examples_title' => 'Examples',
+    'community_examples_description' => 'Customer Support Community Examples',
+    'community_examples_forum_description' => 'Innovative community-style theme templates with responsive design, suitable for computers, tablets, and mobile devices.',
+    'community_examples_social_description' => 'Minimalist theme based on information flow experience, with responsive design, suitable for computers, tablets, and mobile devices.',
+    'community_examples_bbs_description' => 'Traditional BBS forum-style theme templates with responsive design, suitable for computers, tablets, and mobile devices.',
+
+    'community_services_title' => 'Pricing',
+    'community_services_description' => 'All prices are calculated in US Dollars',
+    'community_services_software' => 'Community Software',
+    'community_services_hosting' => 'Managed Hosting',
+    'community_services_operations' => 'Managed Operations',
+    'community_services_software_description' => 'The source code is fully transparent and unencrypted, following the Apache-2.0 open-source license. Comprehensive documentation is provided, including data dictionaries, application programming interfaces, extensions, and detailed explanations.',
+    'community_services_hosting_description' => 'Our software is free and open-source. If you lack professional technical knowledge, you can outsource these tasks to us, allowing you to focus on managing your business operations. Our services include providing servers, managing servers, installing and upgrading software, and configuring operational details.',
+    'community_services_operations_description' => 'Beyond hosting services, we go further by directly participating in your community operations. We jointly manage the community, publish and reply to content, and provide content search engine optimization services, all aimed at helping you convert customers into loyal advocates.',
+];
