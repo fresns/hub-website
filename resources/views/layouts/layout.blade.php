@@ -10,7 +10,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="csrf-token" content="{{ csrf_token() }}">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="icon" href="/assets/images/icon.png">
+    <link rel="icon" href="https://assets.fresns.com/images/icons/fresns.png">
     <link rel="stylesheet" href="/assets/css/bootstrap.min.css">
     <link rel="stylesheet" href="/assets/css/bootstrap-icons.min.css">
     <link rel="stylesheet" href="/assets/css/animate.min.css">

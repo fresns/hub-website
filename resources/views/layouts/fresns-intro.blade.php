@@ -22,5 +22,6 @@
                 <img src="https://assets.fresns.com/images/intro/fresns-intro-6.jpg" alt="fresns" class="img-fluid border">
             </div>
         </div>
+        <p class="mt-4 text-center"><a class="btn btn-primary btn-lg px-4 animate__animated animate__slideInDown" href="https://fresns.org/" target="_blank" role="button">{{ __('fresns.get_started') }}</a></p>
     </div>
 </section>
