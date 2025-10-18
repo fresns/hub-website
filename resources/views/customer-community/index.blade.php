@@ -7,11 +7,13 @@
 @section('header')
     <nav class="navbar navbar-expand-lg bg-body-tertiary fixed-top">
         <div class="container">
-            <div class="navbar-brand d-flex align-items-center" data-bs-toggle="offcanvas" data-bs-target="#offcanvasNavigator" aria-controls="offcanvasNavigator">
+            <div class="navbar-brand d-flex align-items-center">
                 <img src="https://assets.fresns.com/images/icons/fresns.png" alt="Fresns" width="36" height="36">
                 <span class="fs-2 fw-semibold fs-title me-1 ms-2">Fresns</span>
 
-                <button class="btn btn-warning btn-sm dropdown-toggle ms-2 mt-1 animate__animated animate__bounce" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasNavigator" aria-controls="offcanvasNavigator">{{ __('fresns.solution_community_text') }}</button>
+                {{-- <button class="btn btn-warning btn-sm dropdown-toggle ms-2 mt-1 animate__animated animate__bounce" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasNavigator" aria-controls="offcanvasNavigator">{{ __('fresns.solution_community_text') }}</button> --}}
+
+                <span class="badge bg-success-subtle border border-success-subtle text-success-emphasis rounded-pill ms-2 mt-1 animate__animated animate__bounce">{{ __('fresns.community_hero_text') }}</span>
             </div>
 
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
@@ -60,7 +62,7 @@
                     <div class="ms-5 me-5 me-md-0 mt-5 mt-md-0 mb-0 mb-md-5">
                         <h1 class="fw-semibold animate__animated animate__slideInDown">{{ __('fresns.community_hero_text') }}</h1>
                         <p class="text-body-tertiary fs-4 fw-light mt-3 animate__animated animate__slideInDown">{{ __('fresns.community_hero_tagline') }}</p>
-                        {{-- <p class="mt-4"><a class="btn btn-primary btn-lg px-4 animate__animated animate__slideInDown" href="#contacts" role="button">{{ __('fresns.contact_us') }}</a></p> --}}
+                        <p class="mt-4"><a class="btn btn-primary btn-lg px-4 animate__animated animate__slideInDown" href="https://fresns.org/" target="_blank" role="button">{{ __('fresns.get_started') }}</a></p>
                     </div>
                 </div>
                 <div class="col-md-6 text-center">
