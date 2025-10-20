@@ -49,7 +49,7 @@
 
     <script src="/assets/js/jquery.min.js"></script>
     <script src="/assets/js/bootstrap.bundle.min.js"></script>
-    <script src="/assets/js/Fresns.js?v={{ config('app.version') }}"></script>
+    <script src="/assets/js/fresns.js?v={{ config('app.version') }}"></script>
     @stack('script')
 </body>
 
